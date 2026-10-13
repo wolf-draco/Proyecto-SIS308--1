@@ -1,0 +1,41 @@
+{
+  "productos": [
+    {
+      "codigo": "A1",
+      "nombre": "Galleta",
+      "precio": 10,
+      "stock": 7,
+      "stock_minimo": 2
+    },
+    {
+      "codigo": "C45",
+      "nombre": "Paracetamol",
+      "precio": 5.0,
+      "stock": 22,
+      "stock_minimo": 5
+    }
+  ],
+  "ventas": [
+    {
+      "fecha": "2026-10-13 09:43",
+      "codigo": "A1",
+      "nombre": "Galleta",
+      "cantidad": 3,
+      "total": 30
+    },
+    {
+      "fecha": "2026-10-13 09:48",
+      "codigo": "C45",
+      "nombre": "Paracetamol",
+      "cantidad": 3,
+      "total": 15.0
+    },
+    {
+      "fecha": "2026-10-13 09:54",
+      "codigo": "B12",
+      "nombre": "Sopa de pollo",
+      "cantidad": 5,
+      "total": 60.0
+    }
+  ]
+}
